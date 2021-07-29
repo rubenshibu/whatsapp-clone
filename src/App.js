@@ -6,7 +6,6 @@ function App() {
   return (
     <div className='container'>
       <ContactlistComponent />
-      Ruben Shibu
       <ConversationComponent />
     </div>
   );

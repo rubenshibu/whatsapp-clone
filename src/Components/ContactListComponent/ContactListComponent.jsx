@@ -1,5 +1,5 @@
 const ContactlistComponent = () => {
-  return ('ContactComponetn')
-}
+  return <div className="container"> COntact </div>;
+};
 
 export default ContactlistComponent;
