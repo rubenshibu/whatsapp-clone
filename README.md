@@ -1,6 +1,8 @@
-This project was bootstrapped with React
+#Whatsapp Clone
 
-The project is a simple whatsapp clone using reacct JS. 
+## This project was bootstrapped with React
+
+## The project is a simple whatsapp clone using reacct JS. 
 
 ### `npm install`
 
