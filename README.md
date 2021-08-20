@@ -2,8 +2,8 @@
 
 ## This project was bootstrapped with React. 
 
-## The project is a simple whatsapp clone using reacct JS. 
+## The project is a simple whatsapp clone using react JS. 
 
-### `npm install`
+ `npm install`
 
-### `npm start`
+ `npm start`
